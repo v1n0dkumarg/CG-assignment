@@ -1,7 +1,7 @@
 /*
  * Snake Game
  *
- * Written by Shrivathsa P and Vinodkumar G, July 2021
+ * Written by Vinodkumar G and Shrivathsa P, July 2021
  *
  * This program is a classic snake game in GLUT.
  *
